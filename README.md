@@ -19,3 +19,8 @@ wget https://github.com/tsukumijima/libmali-rockchip/releases/download/v1.9-1-55
 dpkg -i *.deb
 ldconfig
 ```
+
+## Check the OpenCL (GPU firmware)
+```
+clinfo
+```
