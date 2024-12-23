@@ -1,3 +1,5 @@
+# Small HOWTO start fast Rockchip GPU based on [Jellyfin guide](https://jellyfin.org/docs/general/administration/hardware-acceleration/rockchip)
+
 ## Install all essential tools
 ```
 sudo apt-get update
